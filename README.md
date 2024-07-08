@@ -28,7 +28,7 @@ to solve meaningful problems.
 
 * 👨‍💻 **Data Analysis:**
     * Experienced in using R and Python for statistical analysis and data visualization, with a strong understanding of pandas, numpy, and matplotlib. Developed and implemented data analysis workflows
-during my M.Sc and Ph.D research and for academic pourpouses, present here in my [**repository**](https://github.com/vzucchetti).
+during my M.Sc and Ph.D research and for academic/personal pourpouses, present here in my [**repository**](https://github.com/vzucchetti).
     * Experienced in data wrangling techniques using pandas, data visualization with ggplot2, motplotlib, folium and plotly, and machine learning modeling and implementation with scikit-learn.
     * Comfortable working with SQL for database querying and data manipulation.
 
